@@ -274,6 +274,7 @@ h3 {
   }
 
   .lista_principal{
+    gap: 5px;
     padding: 0;
     margin-left: -30px;
     
@@ -334,5 +335,8 @@ h3 {
     justify-items: center;
     flex-direction: column;
     
+  }
+  .cont_principal{
+    text-align: center;
   }
 }
