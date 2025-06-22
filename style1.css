@@ -302,12 +302,19 @@ h3 {
   .imest, .imprai, .imparq{
     margin-bottom: 2rem;
   }
+  
+  .linknav{
+    gap: 5px;
+    font-size: 18px;
+  }
 
   .limenu{
-    gap: 25px;
+    gap: 5px;
     font-size: 18px;
   }
   .foto{
+    width: 100px;
+    height: auto;
     margin-left: 30px;
   }
 }
