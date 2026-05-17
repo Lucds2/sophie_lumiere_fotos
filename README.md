@@ -47,6 +47,8 @@ Utilize a extensão Live Server para rodar o arquivo index.html ou simplesmente 
 
 
 
-📬 Contato
+📬 Contato:
+
 Desenvolvido por Luciano Santos.
+
 Se quiser trocar uma ideia sobre o projeto ou desenvolvimento front-end, você pode me encontrar através dos links do projeto ou pelo botão de redirecionamento para o WhatsApp disponível no site.
